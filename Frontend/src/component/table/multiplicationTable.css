@@ -1,0 +1,29 @@
+.table {
+  margin-top: 20px;
+  color: black;
+  font-size: 20px;
+  padding: 11px 15px;
+  background-color: aliceblue;
+  border-radius: 8px;
+  cursor: pointer;
+
+}
+
+.table-row {
+  padding: 11px 15px;
+  border-width: 2px;
+  border-style: solid;
+  margin: 5px 0;
+}
+
+.border-red {
+  border-color: red;
+}
+
+.border-green {
+  border-color: green;
+}
+
+.border-blue {
+  border-color: blue;
+}
